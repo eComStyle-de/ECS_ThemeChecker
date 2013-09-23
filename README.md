@@ -1,16 +1,12 @@
 eComStyle.de_ThemeChecker
 ==========================
-
+Ermittelt das aktive Shoptheme. Kann ab Shopversion 4.7.5 deaktiviert oder entfernt werden.
 
 Installation: 
 
-    1. Copy content of folder "copy_this" into /  (=> rootfolder)
+    1. Inhalt von "copy_this" in den Shophauptordner kopieren.
 	
-	2. Delete content of /tmp
-	
-	3. Activate in "Extensions" -> "Modules"
-
-	4. Be Happy :)
+	2. Modul aktivieren unter  "Erweiterungen" -> "Module".
 	
 Shopversion:
 
