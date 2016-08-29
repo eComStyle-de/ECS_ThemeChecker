@@ -9,8 +9,7 @@
 	$aModule = array(
 		'id'          => 'ecs-themechecker',
         'title'        => '<strong style="color:#04B431;">e</strong><strong>ComStyle.de</strong>:  <i>ThemeChecker</i>',
-		'description' => 'Ermittelt das aktive Theme.<br>Kann ab Shopversion 4.7.5 deaktiviert oder entfernt werden.
-                <br><iframe frameborder="no" width="600px" height="400px" src="https://ssl-account.com/incl.oxidtheme.de/gratis.html"></iframe>',
+		'description' => 'Ermittelt das aktive Theme.<br>Kann ab Shopversion 4.7.5 deaktiviert oder entfernt werden.',
    
 		'thumbnail'   => 'ecomstyle.png',
 		'version'     => '1.0',
